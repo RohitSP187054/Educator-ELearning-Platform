@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="375" height="375" viewBox="0 0 375 375">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H500V500H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H500V500H0Z" fill="#f1efe7"/>
+</g>
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 81.236888 149.24353)" font-size="68.28" font-family="LeagueSpartan" font-weight="bold"><tspan y="66" x="0 33.17524 73.38185 111.74529 138.8449 179.05152 199.5976 238.30237">Educator</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 81.236888 149.24353)" font-size="68.28" font-family="LeagueSpartan" font-weight="bold"><tspan y="66" x="265.89064"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 127.33876 202.11942)" font-size="13.74" font-family="Quicksand"><tspan y="14" x="43.484376 59.998575 76.787448 94.18064 108.81323">Learn</tspan></text>
+</g>
+</svg>
